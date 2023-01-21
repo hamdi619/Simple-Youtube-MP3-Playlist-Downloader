@@ -1,4 +1,4 @@
-# Simple-Youtube-Playlist-Downloader
+# Simple-Youtube-MP3-Playlist-Downloader
 
 
 Open directly in google colab here:
@@ -8,3 +8,4 @@ Open directly in google colab here:
 
 Just make sure you replace the url in the second cell with the url of your playlist.
 [url = 'https://www.youtube.com/playlist?list=PL2X2v6i7yJnX2GhryajcOisOKVQhAkGru']
+
